@@ -4,9 +4,10 @@ Maître de conférences habilité à diriger les recherches
 ```samuel point delepoulle at univ-littoral.fr```
 
 
-- [LISIC](https://www-lisic.univ-littoral.fr/)
-- [IUT du Littoral Côte d'Opale](https://www.iut-littoral.fr/) de l'[ULCO](https://www.univ-littoral.fr/)
-- sur [ResearchGate](https://www.researchgate.net/profile/Samuel-Delepoulle)
+- [<img src="https://lisic-prod.univ-littoral.fr/wp-content/uploads/2023/05/LISIC.png" width="80" > LISIC](https://www-lisic.univ-littoral.fr/)
+- [<img src="https://www.iut-littoral.fr/wp-content/uploads/2026/03/iutlittoral-logo.png" width="120" height="50"> IUT du Littoral Côte d'Opale](https://www.iut-littoral.fr/) de l'[ULCO <img src="https://www.univ-littoral.fr/wp-content/uploads/2021/04/logo_ulco.png" width="50" height="50">](https://www.univ-littoral.fr/)
+- Sur [<img src="https://c5.rgstatic.net/m/419438641133902/images/icons/svgicons/new-index-logo.svg" width="80" > ResearchGate](https://www.researchgate.net/profile/Samuel-Delepoulle)
+- Sur [<img src="https://hal.science/assets/img/hal-logo-header.png" width="20" height="20"> HAL](https://cv.hal.science/samueldelepoulle)
   
 
 
@@ -24,9 +25,11 @@ Depuis le 17 juin 2022, je suis [Habilité à Diriger les Recherches](hdr.html).
 # Publications
 
 - S. Raux, C. Renaud, F. Rousselle & S. Delepoulle (2023) L’apport de la simulation numérique de l’éclairage pour l’analyse des ombres projetées en peinture. Une application à la Dibutade de Joseph Benoît Suvée (1791) Perspective p. 173-198 [http://dx.doi.org/10.4000/perspective.29536](http://dx.doi.org/10.4000/perspective.29536)
+
 - Y. Wamain, Marc Godard, A.-S. Puffet, S. Delepoulle, S. Kalénine (2023) Congruent action context releases Mu rhythm desynchronization when visual objects activate competing action representations. Cortex 161(3) [https://doi.org/10.1016/j.cortex.2023.01.009](https://doi.org/10.1016/j.cortex.2023.01.009)
 
 - J. Buisine, F. Teytaud, S. Delepoulle & C. Renaud (2022) Guided-Generative Network: A New Robust Deep Learning Architecture for Noise Characterization in Monte-Carlo Rendering, Deep Learning Applications, Volume 4 (pp.293-315) [http://dx.doi.org/10.1007/978-981-19-6153-3_12](http://dx.doi.org/10.1007/978-981-19-6153-3_12)
+
 - M. Godard, Y. Wamain, L. Ott, S. Delepoulle, S. Kalénine (2022) How Competition between Action Representations Affects Object Perception during Development. Journal of Cognition and Development, 1-25. - [https://doi.org/10.1080/15248372.2022.2025808](https://doi.org/10.1080/15248372.2022.2025808) 
  
 
