@@ -24,6 +24,16 @@ Depuis le 17 juin 2022, je suis [Habilité à Diriger les Recherches](hdr.html).
 
 # Publications
 
+- F Vandewiele, R Synave, S Delepoulle, R Cozot (2026) Beyond the prompt: gender ratio in text-to-image models, with a case study on hospital professions, AI and Ethics 6 (1), 134 [https://doi.org/10.1007/s43681-026-00997-5
+](https://doi.org/10.1007/s43681-026-00997-5)
+
+- LI Renaud, C Renaud, S Delepoulle, E Asselin (2024) Toto-Cell: A new software to analyze cellular events during video-microscopy, Plos one 19 (6), e0302042 [https://doi.org/10.1371/journal.pone.0302042](https://doi.org/10.1371/journal.pone.0302042)
+
+- J. Zhang, R. Synave, S. Delepoulle, R. Cozot (2023)Reconstructing Image Composition: Computation of Leading Lines
+Journal of Imaging 10 (1), 5 [https://doi.org/10.3390/jimaging10010005](https://doi.org/10.3390/jimaging10010005)
+
+- S Raux, C Renaud, F Rousselle, S Delepoulle (2023) Digital Lighting Simulation in the Analysis of Shadows in Paintings: An Application Using Joseph. Benoit Suvee's Dibutades (1791) PERSPECTIVE-ACTUALITE EN HISTOIRE DE L ART
+
 - S. Raux, C. Renaud, F. Rousselle & S. Delepoulle (2023) L’apport de la simulation numérique de l’éclairage pour l’analyse des ombres projetées en peinture. Une application à la Dibutade de Joseph Benoît Suvée (1791) Perspective p. 173-198 [http://dx.doi.org/10.4000/perspective.29536](http://dx.doi.org/10.4000/perspective.29536)
 
 - Y. Wamain, Marc Godard, A.-S. Puffet, S. Delepoulle, S. Kalénine (2023) Congruent action context releases Mu rhythm desynchronization when visual objects activate competing action representations. Cortex 161(3) [https://doi.org/10.1016/j.cortex.2023.01.009](https://doi.org/10.1016/j.cortex.2023.01.009)
@@ -34,7 +44,9 @@ Depuis le 17 juin 2022, je suis [Habilité à Diriger les Recherches](hdr.html).
  
 
 - Buisine, J., Delepoulle, S., Synave, R. & Renaud, C. (2021). Subjective human thresholds over computer generated images. [https://doi.org/10. 5281/ZENODO.4531460](https://doi.org/10.5281/ZENODO.4531460)
+
 - Buisine, J., Delepoulle, S. & Renaud, C. (2021). Minimalist And Customisable Optimisation Package. Journal of Open Source Software, 6. [https://doi.org/10.21105/joss.02812](https://doi.org/10.21105/joss.02812)
+
 - Buisine, J., Bigand, A., Synave, R., Delepoulle, S. & Renaud, C. (2021). Stopping Criterion during Rendering of Computer-Generated Images
 Based on SVD-Entropy. Entropy. [https://hal.archives-ouvertes.fr/hal-03100109](https://hal.archives-ouvertes.fr/hal-03100109)
 - Buisine, J., Teytaud, F., Delepoulle, S. & Renaud, C. (2021). Guided-Generative Network for noise detection in Monte-Carlo rendering. International Conference On Machine Learning And Applications. [https://hal.archives-ouvertes.fr/hal-03374214](https://hal.archives-ouvertes.fr/hal-03374214)
