@@ -24,6 +24,9 @@ Depuis le 17 juin 2022, je suis [Habilité à Diriger les Recherches](hdr.html).
 
 # Publications
 
+- V. Myrodia, J. Buisine, S. Delepoulle, L. Madelain (2026) PyBOLE–A General Python Based Framework for Behavioral Online Experiments: A Case Study Using the QUEST+ Adaptive Method, Journal of Open Research Software 14 (1), 36-41 [https://doi.org/10.5334/jors.423](https://doi.org/10.5334/jors.423)
+
+
 - F Vandewiele, R Synave, S Delepoulle, R Cozot (2026) Beyond the prompt: gender ratio in text-to-image models, with a case study on hospital professions, AI and Ethics 6 (1), 134 [https://doi.org/10.1007/s43681-026-00997-5
 ](https://doi.org/10.1007/s43681-026-00997-5)
 
